@@ -1,15 +1,13 @@
 # Bitcoin-mining
 Complete bitcoin mining using Python
-The source code for the following video in my youtube channel: https://www.youtube.com/watch?v=AoX1OZt2K18
+This Python source code is a complete implementation of Bitcoin mining, as demonstrated in my YouTube video at https://www.youtube.com/watch?v=AoX1OZt2K18.
 ## Description
-This source code generates block header from the required information, such as bitcoin client version, previous block hash, and so on. Then, it starts the mining process. More detail about this process can be accessed from the below link.
-https://www.youtube.com/watch?v=3_z-QbjWzQM
+The code generates a block header with all the required information, including the Bitcoin client version and the hash of the previous block. It then proceeds to mine the block. For more information about the mining process, please refer to the following link: https://www.youtube.com/watch?v=3_z-QbjWzQM.
 ## Requirements
 ```
 $ pip install pandas
 ```
-Download the blockdata.txt from the following site
-https://bitcointalk.org/index.php?topic=5246271.0
+To use this code, you will need to download the blockdata.txt file from the following website: https://bitcointalk.org/index.php?topic=5246271.0. This file contains the necessary data for mining the block.
 
 ## Sample output
 ![bit2](https://user-images.githubusercontent.com/131509932/233770873-ccd24bee-8b19-4d04-b2b6-b3fccad1bcf3.JPG)
