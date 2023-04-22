@@ -13,4 +13,4 @@ The data used in this project is from the following site
 https://bitcointalk.org/index.php?topic=5246271.0
 
 ## Sample output
-![bit1](https://user-images.githubusercontent.com/131509932/233770212-63c05cab-5300-4e41-958a-9e07535e2fd3.JPG)
+![bit2](https://user-images.githubusercontent.com/131509932/233770873-ccd24bee-8b19-4d04-b2b6-b3fccad1bcf3.JPG)
