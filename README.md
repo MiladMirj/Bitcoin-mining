@@ -8,8 +8,7 @@ https://www.youtube.com/watch?v=3_z-QbjWzQM
 ```
 $ pip install pandas
 ```
-## Extra 
-The data used in this project is from the following site
+Download the blockdata.txt from the following site
 https://bitcointalk.org/index.php?topic=5246271.0
 
 ## Sample output
